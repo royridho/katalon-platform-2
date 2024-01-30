@@ -22,7 +22,7 @@
       <guid>64b3b33f-e180-48ae-ad2f-b4b8e378e5d1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AppointmentMobile</testCaseId>
+      <testCaseId>Test Cases/Appoint_Mobile</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
